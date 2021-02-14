@@ -7,4 +7,5 @@
 // require('./pics/index');
 // require('./videos/index');
 // require('./widgets/index');
-require('./videos-hooks/index');
+// require('./videos-hooks/index');
+require('./translate-context/index')
